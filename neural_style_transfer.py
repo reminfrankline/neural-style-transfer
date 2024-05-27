@@ -167,8 +167,8 @@ def run_style_transfer(content_path, style_path, num_iterations=1000, content_we
 
     return best_img, best_loss
 
-content_path = 'doggo.jpg'
-style_path = 'catto.jpg'
+content_path = 'path_to_your.jpg'
+style_path = 'path_to_your.jpg'
 
 best_img, best_loss = run_style_transfer(content_path, style_path)
 plt.imshow(best_img)
