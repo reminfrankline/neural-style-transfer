@@ -32,6 +32,14 @@ This project implements Neural Style Transfer using TensorFlow and VGG19, a conv
 - Matplotlib
 - PIL (Python Imaging Library)
 
+### Contributing
+Feel free to open issues or submit pull requests if you have any suggestions or improvements.
+
+### Acknowledgments
+
+This project was inspired by TensorFlow's Neural Style Transfer Tutorial.
+Special thanks to the developers of TensorFlow and VGG19 for their amazing work.
+
 ### Installation
 Clone the repository and install the required libraries:
 
@@ -39,3 +47,5 @@ Clone the repository and install the required libraries:
 git clone https://github.com/reminfrankline/neural-style-transfer.git
 cd neural-style-transfer
 pip install -r requirements.txt
+
+
